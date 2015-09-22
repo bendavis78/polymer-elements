@@ -19,6 +19,7 @@
     "gold-elements": "polymerelements/gold-elements#^1.0",
     "platinum-elements": "polymerelements/platinum-elements#^1.0",
     "google-web-components": "GoogleWebComponents/google-web-components#^1.0",
-    "molecules": "polymerelements/molecules#^1.0"
+    "molecules": "polymerelements/molecules#^1.0",
+    "font-roboto": "polymerelements/font-roboto#^1.0"
   }
 }
